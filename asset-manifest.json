@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/dply-react-gh-pages/static/css/main.a617e044.chunk.css",
+    "main.js": "/dply-react-gh-pages/static/js/main.5b577df3.chunk.js",
+    "main.js.map": "/dply-react-gh-pages/static/js/main.5b577df3.chunk.js.map",
+    "runtime-main.js": "/dply-react-gh-pages/static/js/runtime-main.3a823a6d.js",
+    "runtime-main.js.map": "/dply-react-gh-pages/static/js/runtime-main.3a823a6d.js.map",
+    "static/js/2.3489b3d5.chunk.js": "/dply-react-gh-pages/static/js/2.3489b3d5.chunk.js",
+    "static/js/2.3489b3d5.chunk.js.map": "/dply-react-gh-pages/static/js/2.3489b3d5.chunk.js.map",
+    "static/js/3.6333f017.chunk.js": "/dply-react-gh-pages/static/js/3.6333f017.chunk.js",
+    "static/js/3.6333f017.chunk.js.map": "/dply-react-gh-pages/static/js/3.6333f017.chunk.js.map",
+    "index.html": "/dply-react-gh-pages/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/dply-react-gh-pages/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.3489b3d5.chunk.js.LICENSE.txt": "/dply-react-gh-pages/static/js/2.3489b3d5.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/dply-react-gh-pages/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3a823a6d.js",
+    "static/js/2.3489b3d5.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.5b577df3.chunk.js"
+  ]
+}
